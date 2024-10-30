@@ -3,8 +3,8 @@ import React from 'react';
 
 const HeroSection = () => {
   return (
-    <section className="h-screen flex items-center justify-center bg-primary text-white relative">
-      <div className="absolute inset-0 bg-gradient-to-b from-primary to-secondary opacity-80"></div>
+    <section className="h-screen flex items-center justify-center bg-primary text-yellow-500 relative">
+      <div className="absolute inset-0 bg-gradient-to-tr from-blue-300 via-indigo-400 to-violet-300 opacity-80"></div>
       <div className="relative z-10 text-center p-8 rounded-lg bg-opacity-60 animate-fade-in-down">
         <h1 className="text-4xl md:text-6xl font-bold transition duration-500 ease-in-out transform hover:scale-105">
           Rethink Fashion Waste

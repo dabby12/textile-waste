@@ -50,3 +50,6 @@
 .animate-slide-in {
   animation: slideIn 0.7s ease-out forwards;
 }
+.animate-fly-up {
+  animation: ease-in-out 1.0s ease-out backwards;
+}

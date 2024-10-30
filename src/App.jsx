@@ -9,7 +9,7 @@ import EducationalResources from './components/EducationalResources';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App bg-gradient-to-tr from-blue-300 via-indigo-400 to-violet-300 ">
       <HeroSection />
       <WhatIsTextileWaste />
       <EnvironmentalImpacts />
