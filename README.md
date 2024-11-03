@@ -43,5 +43,5 @@ This website educates users on the environmental impact of textile waste and pro
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/textile-waste-awareness.git
+   git clone https://github.com/dabby12/textile-waste-awareness.git
    cd textile-waste-awareness
