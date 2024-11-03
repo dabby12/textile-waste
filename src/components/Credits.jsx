@@ -8,7 +8,7 @@ const Credits = () => {
       <ul className="list-disc list-inside space-y-2">
         <li className="hover:text-green-300">Design: <span className="font-semibold hover:text-green-500">Chris Liu</span></li>
         <li className="hover:text-indigo-400">Development: <span className="font-semibold hover:text-blue-500">Chris Liu</span></li>
-        <li className="transition duration-300 hover:text-orange-500">Copywriting: <span className="font-semibold">Chris Liu/span></li>
+        <li className="transition duration-300 hover:text-orange-500">Copywriting: <span className="font-semibold">Chris Liu </span></li>
         
       </ul>
       <p className="mt-4 ">Thank you to everyone who contributed!</p>
