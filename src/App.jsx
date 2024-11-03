@@ -6,6 +6,8 @@ import EnvironmentalImpacts from './components/EnvironmentalImpacts';
 import WhyReduce from './components/WhyReduce';
 import HowToReduce from './components/HowToReduce';
 import EducationalResources from './components/EducationalResources';
+import Credits from './components/Credits';
+
 
 function App() {
   return (
@@ -16,6 +18,7 @@ function App() {
       <WhyReduce />
       <HowToReduce />
       <EducationalResources />
+      <Credits />
     </div>
   );
 }
